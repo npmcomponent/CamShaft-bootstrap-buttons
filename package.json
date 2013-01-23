@@ -1,0 +1,16 @@
+{
+  "name": "bootstrap-buttons",
+  "version": "2.2.2",
+  "description": "Bootstrap Buttons Component",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/CamShaft/bootstrap-buttons.git"
+  },
+  "author": "",
+  "license": "APLv2",
+  "readmeFilename": "Readme.md",
+  "devDependencies": {
+    "bootstrap": "https://github.com/twitter/bootstrap/archive/v2.2.2.tar.gz",
+    "recess": "~1.1.6"
+  }
+}
