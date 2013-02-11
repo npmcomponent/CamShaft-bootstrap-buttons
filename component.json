@@ -9,6 +9,7 @@
   },
   "development": {},
   "license": "APLv2",
+  "main": "bootstrap-buttons.js",
   "scripts": [
     "bootstrap-buttons.js"
   ],
