@@ -102,4 +102,4 @@
     $btn.button('toggle')
   })
 
-}(require("jquery"));
+}(require('component-jquery'));

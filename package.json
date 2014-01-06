@@ -1,16 +1,11 @@
 {
-  "name": "bootstrap-buttons",
-  "version": "2.3.1",
+  "name": "CamShaft-bootstrap-buttons",
   "description": "Bootstrap Buttons Component",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/CamShaft/bootstrap-buttons.git"
+  "version": "2.3.1",
+  "keywords": [],
+  "main": "bootstrap-buttons.js",
+  "dependencies": {
+    "component-jquery": "git://github.com/npmcomponent/component-jquery.git"
   },
-  "author": "",
-  "license": "APLv2",
-  "readmeFilename": "Readme.md",
-  "devDependencies": {
-    "bootstrap": "https://github.com/twitter/bootstrap/archive/v2.3.1.tar.gz",
-    "recess": "~1.1.6"
-  }
+  "license": "APLv2"
 }
